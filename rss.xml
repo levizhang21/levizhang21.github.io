@@ -23,47 +23,31 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 09 May 2021 22:47:33 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 23:52:02 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang21.github.io/rss.xml" />
         
         
             <item>
-                <title>Hellod</title>
-                <link>https://levizhang21.github.io/posts/hellod/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/posts/hellod/</guid>
-                <pubDate>Sun, 09 May 2021 04:52:22 &#43;0800</pubDate>
+                <title>建站记录</title>
+                <link>https://levizhang21.github.io/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://levizhang21.github.io/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+                <pubDate>Sun, 09 May 2021 23:17:06 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (Levi)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;hello&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Hello World</title>
-                <link>https://levizhang21.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/posts/hello-world/</guid>
-                <pubDate>Sun, 09 May 2021 04:20:40 &#43;0800</pubDate>
-                
-                    <author>reuixiy@gmail.com (Levi)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;p&gt;你好&lt;/p&gt;
+                    <description>&lt;h5 id=&#34;hello-world&#34;&gt;Hello, world！&lt;/h5&gt;
+&lt;p&gt;2021年5月8日，我花了￥189买下一个十年期的域名：levizhang.site。&lt;/p&gt;
+&lt;p&gt;紧接着我打开教程，折腾了几个小时终于搭建好博客雏形，整个流程不算复杂，但跑通过程中确实解决了不少bug（还顺便“进军”了Github）。如你所见，这是一个利用Hugo生成的静态博客，主题是MemE，托管在Github上。你所浏览的是第一篇文章，我将在此记录建站过程。&lt;/p&gt;
+&lt;h5 id=&#34;20210509&#34;&gt;20210509&lt;/h5&gt;
+&lt;p&gt;域名等待实名认证中，DNS解析有问题。&lt;/p&gt;
+&lt;p&gt;整个流程中最麻烦的问题是 git push 时出现的连接超时问题。有个解决方法有效：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;做一下git pull origin master --allow-unrelated-histories，然后再push即可。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;VSCode的界面设计深得我心，但我markdown用得还不熟，插入图片之类的还不会。&lt;/p&gt;
 </description>
                 
                 
