@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>利威尔的博客</title>
-        <link>https://levizhang21.github.io/</link>
+        <link>https://levizhang.site/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 10 May 2021 00:01:37 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 00:09:15 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang21.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang.site/rss.xml" />
         
         
             <item>
                 <title>建站记录</title>
-                <link>https://levizhang21.github.io/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+                <link>https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
                 <pubDate>Sun, 09 May 2021 23:17:06 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (Levi)</author>
