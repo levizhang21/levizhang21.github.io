@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>利威尔的空间</title>
-        <link>https://levizhang21.github.io/</link>
+        <link>https://levizhang.site/</link>
         <description>利威尔记录的地方。</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
@@ -21,15 +21,15 @@
             <webMaster>zhanghd2020@outlook.com (Levi)</webMaster>
         
         
-        <lastBuildDate>Mon, 10 May 2021 23:19:02 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 23:22:10 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang21.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang.site/rss.xml" />
         
         
             <item>
                 <title>Xxx</title>
-                <link>https://levizhang21.github.io/geek/awesome/xxx/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/geek/awesome/xxx/</guid>
+                <link>https://levizhang.site/geek/awesome/xxx/</link>
+                <guid isPermaLink="true">https://levizhang.site/geek/awesome/xxx/</guid>
                 <pubDate>Mon, 10 May 2021 22:08:21 &#43;0800</pubDate>
                 
                     <author>zhanghd2020@outlook.com (Levi)</author>
@@ -47,7 +47,7 @@
                         
                         
                             
-                                <category domain="https://levizhang21.github.io/geek/awesome/">geek\awesome\</category>
+                                <category domain="https://levizhang.site/geek/awesome/">geek\awesome\</category>
                             
                         
                     
@@ -62,8 +62,8 @@
         
             <item>
                 <title>Test2</title>
-                <link>https://levizhang21.github.io/geek/awesome/test2/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/geek/awesome/test2/</guid>
+                <link>https://levizhang.site/geek/awesome/test2/</link>
+                <guid isPermaLink="true">https://levizhang.site/geek/awesome/test2/</guid>
                 <pubDate>Mon, 10 May 2021 21:20:57 &#43;0800</pubDate>
                 
                     <author>zhanghd2020@outlook.com (Levi)</author>
@@ -81,7 +81,7 @@
                         
                         
                             
-                                <category domain="https://levizhang21.github.io/geek/awesome/">geek\awesome\</category>
+                                <category domain="https://levizhang.site/geek/awesome/">geek\awesome\</category>
                             
                         
                     
@@ -96,8 +96,8 @@
         
             <item>
                 <title>建站记录</title>
-                <link>https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
-                <guid isPermaLink="true">https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+                <link>https://levizhang.site/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://levizhang.site/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
                 <pubDate>Sun, 09 May 2021 23:17:06 &#43;0800</pubDate>
                 
                     <author>zhanghd2020@outlook.com (Levi)</author>
@@ -126,7 +126,7 @@
                         
                         
                             
-                                <category domain="https://levizhang21.github.io/geek/cool/">geek\cool\</category>
+                                <category domain="https://levizhang.site/geek/cool/">geek\cool\</category>
                             
                         
                     
