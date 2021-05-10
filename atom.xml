@@ -2,54 +2,138 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">利威尔的博客</title>
-    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-05-10T00:09:15&#43;08:00</updated>
-    <id>https://levizhang.site/</id>
-    <link rel="alternate" type="text/html" href="https://levizhang.site/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://levizhang.site/atom.xml" />
+    <title type="text">利威尔的空间</title>
+    <subtitle type="html">利威尔记录的地方。</subtitle>
+    <updated>2021-05-10T23:12:56&#43;08:00</updated>
+    <id>https://levizhang21.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://levizhang21.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://levizhang21.github.io/atom.xml" />
     <author>
             <name>Levi</name>
-            <uri>https://levizhang.site/</uri>
+            <uri>https://levizhang21.github.io/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>zhanghd2020@outlook.com</email>
             </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
         <entry>
+            <title type="text">Xxx</title>
+            <link rel="alternate" type="text/html" href="https://levizhang21.github.io/geek/awesome/xxx/" />
+            <id>https://levizhang21.github.io/geek/awesome/xxx/</id>
+            <updated>2021-05-10T22:52:44&#43;08:00</updated>
+            <published>2021-05-10T22:08:21&#43;08:00</published>
+            <author>
+                    <name>Levi</name>
+                    <uri>https://levizhang.site/</uri>
+                    <email>zhanghd2020@outlook.com</email>
+                    </author>
+            <summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://levizhang21.github.io/geek/awesome/" term="geek\awesome\" label="geek\awesome\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Test2</title>
+            <link rel="alternate" type="text/html" href="https://levizhang21.github.io/geek/awesome/test2/" />
+            <id>https://levizhang21.github.io/geek/awesome/test2/</id>
+            <updated>2021-05-10T22:52:48&#43;08:00</updated>
+            <published>2021-05-10T21:20:57&#43;08:00</published>
+            <author>
+                    <name>Levi</name>
+                    <uri>https://levizhang.site/</uri>
+                    <email>zhanghd2020@outlook.com</email>
+                    </author>
+            <summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://levizhang21.github.io/geek/awesome/" term="geek\awesome\" label="geek\awesome\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">建站记录</title>
-            <link rel="alternate" type="text/html" href="https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/" />
-            <id>https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</id>
-            <updated>2021-05-10T00:01:09&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/" />
+            <id>https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</id>
+            <updated>2021-05-10T21:50:02&#43;08:00</updated>
             <published>2021-05-09T23:17:06&#43;08:00</published>
             <author>
                     <name>Levi</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <uri>https://levizhang.site/</uri>
+                    <email>zhanghd2020@outlook.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Hello, world！ 2021年5月8日，我花了￥189买下一个十年期的域名：levizha……
+            <summary type="html">Hello, world！ 2021年5月8日，我花了￥189买下一个十年期的域名：levizha……
     
     </summary>
             
-                <content type="html">&lt;h5 id=&#34;hello-world&#34;&gt;Hello, world！&lt;/h5&gt;
+                <content type="html">&lt;h4 id=&#34;hello-world&#34;&gt;Hello, world！&lt;/h4&gt;
 &lt;p&gt;2021年5月8日，我花了￥189买下一个十年期的域名：levizhang.site。&lt;/p&gt;
 &lt;p&gt;紧接着我打开教程，折腾了几个小时终于搭建好博客雏形，整个流程不算复杂，但跑通过程中确实解决了不少bug（还顺便“进军”了Github）。如你所见，这是一个利用Hugo生成的静态博客，主题是MemE，托管在Github上。你所浏览的是第一篇文章，我将在此记录建站过程。&lt;/p&gt;
-&lt;h5 id=&#34;20210509&#34;&gt;20210509&lt;/h5&gt;
+&lt;h4 id=&#34;20210509&#34;&gt;20210509&lt;/h4&gt;
 &lt;p&gt;域名等待实名认证中，DNS解析有问题。&lt;/p&gt;
 &lt;p&gt;整个流程中最麻烦的问题是 git push 时出现的连接超时问题。有个解决方法有效：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;做一下git pull origin master --allow-unrelated-histories，然后再push即可。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;VSCode的界面设计深得我心，但我markdown用得还不熟，插入图片之类的还不会。&lt;/p&gt;
-&lt;p&gt;禁用SS后git push一次成功，是巧合？&lt;/p&gt;
+&lt;p&gt;禁用ss后git push一次成功，是巧合？&lt;/p&gt;
 </content>
             
             
             
-            
-            
+                
+                
                 
                     
+                    
+                    
+                        
+                            <category scheme="https://levizhang21.github.io/geek/cool/" term="geek\cool\" label="geek\cool\" />
+                        
+                    
+                
+            
+            
+            
                 
                     
                 

@@ -7,56 +7,132 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>利威尔的博客</title>
-        <link>https://levizhang.site/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <title>利威尔的空间</title>
+        <link>https://levizhang21.github.io/</link>
+        <description>利威尔记录的地方。</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (Levi)</managingEditor>
+            <managingEditor>zhanghd2020@outlook.com (Levi)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (Levi)</webMaster>
+            <webMaster>zhanghd2020@outlook.com (Levi)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        <lastBuildDate>Mon, 10 May 2021 23:12:56 &#43;0800</lastBuildDate>
         
-        <lastBuildDate>Mon, 10 May 2021 00:09:15 &#43;0800</lastBuildDate>
-        
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang.site/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://levizhang21.github.io/rss.xml" />
         
         
             <item>
+                <title>Xxx</title>
+                <link>https://levizhang21.github.io/geek/awesome/xxx/</link>
+                <guid isPermaLink="true">https://levizhang21.github.io/geek/awesome/xxx/</guid>
+                <pubDate>Mon, 10 May 2021 22:08:21 &#43;0800</pubDate>
+                
+                    <author>zhanghd2020@outlook.com (Levi)</author>
+                
+                
+                
+                    <description></description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://levizhang21.github.io/geek/awesome/">geek\awesome\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Test2</title>
+                <link>https://levizhang21.github.io/geek/awesome/test2/</link>
+                <guid isPermaLink="true">https://levizhang21.github.io/geek/awesome/test2/</guid>
+                <pubDate>Mon, 10 May 2021 21:20:57 &#43;0800</pubDate>
+                
+                    <author>zhanghd2020@outlook.com (Levi)</author>
+                
+                
+                
+                    <description></description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://levizhang21.github.io/geek/awesome/">geek\awesome\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>建站记录</title>
-                <link>https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
-                <guid isPermaLink="true">https://levizhang.site/posts/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+                <link>https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://levizhang21.github.io/geek/cool/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
                 <pubDate>Sun, 09 May 2021 23:17:06 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (Levi)</author>
+                    <author>zhanghd2020@outlook.com (Levi)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;h5 id=&#34;hello-world&#34;&gt;Hello, world！&lt;/h5&gt;
+                
+                    <description>&lt;h4 id=&#34;hello-world&#34;&gt;Hello, world！&lt;/h4&gt;
 &lt;p&gt;2021年5月8日，我花了￥189买下一个十年期的域名：levizhang.site。&lt;/p&gt;
 &lt;p&gt;紧接着我打开教程，折腾了几个小时终于搭建好博客雏形，整个流程不算复杂，但跑通过程中确实解决了不少bug（还顺便“进军”了Github）。如你所见，这是一个利用Hugo生成的静态博客，主题是MemE，托管在Github上。你所浏览的是第一篇文章，我将在此记录建站过程。&lt;/p&gt;
-&lt;h5 id=&#34;20210509&#34;&gt;20210509&lt;/h5&gt;
+&lt;h4 id=&#34;20210509&#34;&gt;20210509&lt;/h4&gt;
 &lt;p&gt;域名等待实名认证中，DNS解析有问题。&lt;/p&gt;
 &lt;p&gt;整个流程中最麻烦的问题是 git push 时出现的连接超时问题。有个解决方法有效：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;做一下git pull origin master --allow-unrelated-histories，然后再push即可。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;VSCode的界面设计深得我心，但我markdown用得还不熟，插入图片之类的还不会。&lt;/p&gt;
-&lt;p&gt;禁用SS后git push一次成功，是巧合？&lt;/p&gt;
+&lt;p&gt;禁用ss后git push一次成功，是巧合？&lt;/p&gt;
 </description>
                 
                 
                 
-                
-                
+                    
+                    
                     
                         
+                        
+                        
+                            
+                                <category domain="https://levizhang21.github.io/geek/cool/">geek\cool\</category>
+                            
+                        
+                    
+                
+                
+                
                     
                         
                     
